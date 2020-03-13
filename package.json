@@ -1,0 +1,22 @@
+{
+  "name": "npm-package",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsw-githubpackages-test/npm.git"
+  },
+  "keywords": [
+    "npmtest"
+  ],
+  "author": "itsw1688",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsw-githubpackages-test/npm/issues"
+  },
+  "homepage": "https://github.com/itsw-githubpackages-test/npm#readme"
+}
